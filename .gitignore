@@ -1,0 +1,14 @@
+# dependencies
+node_modules/
+
+# env files (contain secrets/local config)
+.env
+
+# build output
+dist/
+
+# mongodb-memory-server data
+mongo-data/
+
+# misc
+.DS_Store
